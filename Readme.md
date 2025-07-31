@@ -71,3 +71,10 @@ GEMINI_KEY=your_google_gemini_api_key_here
 ```bash
 chainlit run main.py
 ```
+
+##VIDEO
+
+
+https://github.com/user-attachments/assets/492ad274-a172-4e7b-ba00-7949144b2e90
+
+
