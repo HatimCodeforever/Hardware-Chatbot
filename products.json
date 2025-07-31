@@ -1,0 +1,7 @@
+[
+  {"name": "Ultra White Interior Paint", "type": "latex", "price": "$30/gallon", "use": "interior walls and ceilings"},
+  {"name": "Premium Exterior Paint", "type": "oil-based", "price": "$40/gallon", "use": "outdoor wooden and metal surfaces"},
+  {"name": "Eco-Friendly Low-VOC Paint", "type": "latex", "price": "$35/gallon", "use": "interior projects with minimal fumes"},
+  {"name": "All-in-One Primer & Paint", "type": "latex", "price": "$38/gallon", "use": "quick indoor and outdoor projects"},
+  {"name": "Premium Paint Brushes Set", "type": "accessory", "price": "$15/set", "use": "applying paint on various surfaces"}
+]
